@@ -1,2 +1,2 @@
 # ChatElemetn
-Dialogue chat element practice using fragments and recyclerview
+Dialogue chat element practice using Fragments and RecyclerView
